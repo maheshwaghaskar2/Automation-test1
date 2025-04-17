@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>com.beust</groupId>
+    <artifactId>jcommander</artifactId>
+    <version>1.78</version> <!-- Use the latest version -->
+</dependency>
